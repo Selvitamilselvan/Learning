@@ -1,1 +1,2 @@
 
+https://www.zkoss.org/wiki/Setting_Default_JRE_In_Eclipse
